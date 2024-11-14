@@ -812,6 +812,9 @@ font-size: 45px;
 }
 @media (max-width:1080px){
      .container{
-        height: 45vh;
+        height: 35vh;
      }
+    .end-container{
+        height: 16vh;
+    }
 }
