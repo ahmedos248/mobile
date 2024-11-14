@@ -813,6 +813,7 @@ font-size: 45px;
 @media (max-width:1080px){
      .container{
         height: 35vh;
+        width: 180%;
      }
     .end-container{
         height: 16vh;
